@@ -1,0 +1,2 @@
+C:/Users/Adrian Narendra/Desktop/FlutterProject/students_attendace_with_mlkit/android/app/.cxx/Debug/k141t2j2/x86/CMakeFiles/edit_cache.dir
+C:/Users/Adrian Narendra/Desktop/FlutterProject/students_attendace_with_mlkit/android/app/.cxx/Debug/k141t2j2/x86/CMakeFiles/rebuild_cache.dir
