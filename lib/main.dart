@@ -14,7 +14,7 @@ void main() async {
   );
   runApp(
     DevicePreview(
-      enabled: false, // Aktifkan Device Preview
+      enabled: true, // Aktifkan Device Preview
       builder: (context) => const MainApp(),
     ),
   );
